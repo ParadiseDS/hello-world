@@ -10,3 +10,5 @@ test for formal commit message
 test for rebase-sub1
 
 test for rebase-sub2
+
+test for rebase-sub3
