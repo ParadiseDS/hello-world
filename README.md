@@ -26,3 +26,5 @@ second rebase node
 test for SublimeGit push which branch
 
 another try for SublimeGit
+
+see what the verbose commit bring up
