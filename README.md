@@ -6,3 +6,5 @@ test for https push
 test for comments in commit
 
 test for formal commit message
+
+test for rebase-sub1
