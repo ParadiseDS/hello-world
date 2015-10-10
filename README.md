@@ -30,3 +30,5 @@ another try for SublimeGit
 see what the verbose commit bring up
 
 see new branch
+
+how to make new branch visible
